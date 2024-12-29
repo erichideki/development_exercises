@@ -8,6 +8,8 @@
 
 **MIT OpenCourseWare** - [MIT RES.LL-005 Mathematics of Big Data and Machine Learning](https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V)
 
+**João Arthur Brunet** - [Estruturas de Dados e Algoritmos](https://joaoarthurbm.github.io/eda/)
+
 
 ## Development_exercises
 
